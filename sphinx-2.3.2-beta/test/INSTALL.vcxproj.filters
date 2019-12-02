@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Project\lp\IDOL\sphinx-2.3.2-beta\CMakeFiles\8faaa5e0f9ad04cacab25b0042d995d0\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{31A444D2-7CEE-3A3E-959A-93774588E669}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
